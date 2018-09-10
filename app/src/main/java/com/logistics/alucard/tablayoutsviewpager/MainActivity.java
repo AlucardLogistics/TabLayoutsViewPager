@@ -7,6 +7,11 @@ import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
 
+
+/*
+ * NinnYu Review
+ * Very cool app. I like the different contents in each tab
+ */
 public class MainActivity extends AppCompatActivity implements MyInterface {
 
     private static final String TAG = "MainActivity";
